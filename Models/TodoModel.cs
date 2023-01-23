@@ -4,7 +4,7 @@ namespace Todo2811.Models
     {
         public int Id { get; set; } 
         public string Title { get; set; }       
-        public bool Done { get; set; }  ]
+        public bool Done { get; set; }   
         public DateTime CreateAt { get; set; }
     }
 }
